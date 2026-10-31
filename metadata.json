@@ -1,0 +1,6 @@
+{
+  "name": "InsureGraph AI",
+  "description": "Intelligent Insurance Knowledge & Evaluation Platform with RAG, Knowledge Graph, Golden Datasets, and LLM-as-a-Judge Evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
